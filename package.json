@@ -1,9 +1,4 @@
-  "homepage": "https://mikrokosmos2109.github.io/my-app",
- "scripts": {
-+   "predeploy": "npm run build",
-+   "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+
 {
   "name": "first_react_app",
   "version": "0.1.0",
